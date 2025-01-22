@@ -74,6 +74,3 @@ XR_Unity/
 
 ---
 
-## XR Unity Image Generation Prompt
-
-An immersive augmented reality visualization showing a smartphone held up revealing digital content overlaid on the real world. Through the device screen, a 3D point cloud materializes as thousands of glowing particles mapping the physical environment—walls, floors, and surfaces detected and visualized in cyan and magenta dots. A virtual cube floats in AR space, anchored to a detected surface with shadow grounding it in reality. The AR camera feed shows a living room scene with the digital overlay seamlessly integrated. Platform icons for iOS (ARKit) and Android (ARCore) float as badges indicating cross-platform support. The AR Session indicator pulses green showing active tracking. Unity's AR Foundation logo appears subtly. Spatial mesh wireframes hint at environment understanding beneath the point cloud. The phone's camera captures real-world imagery while rendering virtual augmentations. The background blends physical room photography with digital particle effects at the boundaries. Style: AR technology demonstration, Unity showcase quality, mobile XR promotional material, emphasizing the magic of digital content anchored in physical reality through computer vision.
