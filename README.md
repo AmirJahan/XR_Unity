@@ -6,6 +6,8 @@ An Augmented Reality application built with Unity demonstrating AR functionality
 
 This project showcases AR capabilities including point cloud visualization, camera tracking, and spatial understanding on mobile devices using Unity's AR Foundation framework.
 
+![Point Cloud Visualization Demo](pcd.gif)
+
 ## Features
 
 - **Cross-Platform AR**: Supports both iOS (ARKit) and Android (ARCore)
